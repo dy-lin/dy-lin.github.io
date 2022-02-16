@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 excerpt: "Diana Lin, MSc, Bioinformatician, Vancouver, BC"
+featuredImage: /images/dlin.jpg
 author_profile: true
 redirect_from: 
   - /about/
