@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
   - /home/
   - /home.html
-  - /index.html
 ---
 
 <meta property="og:title" content="Diana Lin">
