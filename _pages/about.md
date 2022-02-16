@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Diana Lin, MSc, Bioinformatician, Vancouver, BC"
 author_profile: true
 redirect_from: 
   - /about/
