@@ -9,51 +9,72 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* M.Sc. in Bioinformatics, University of British Columbia, 2021  
+	* British Columbia Graduate Scholarship: $15,000  
+* B.Sc. in Physiology, McGill University, 2014  
+	* J. W. McConnell Scholarship: $3,000
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
+* 2019 - 2021: Graduate Student
+  * University of British Columbia
+  * Supervisor: Dr. Inanc Birol
+* 2018 - 2019: Student Intern
+  * Canada's Michael Smith Genome Sciences Centre
+  * Supervisor: Dr. Inanc Birol
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
+  {% endfor %}</ul>  
+
+## Presentations
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
+## Mentorship
+* 2019 - 2021: Bioinformatics Mentor  
+	* Bioinformatics Graduate Program  
+	* Univeristy of British Columbia  
+* 2017 - 2018: Synapse Mentor  
+	* Physiology Undergraduate League of Students (PULS)  
+	* McGill University  
+* 2015 - 2018: Student Ambassador  
+	* Campus Life & Engagement  
+	* McGill University  
+
+## Skills
+* _De novo_ genome assembly and annotation
+* _De novo_ transcriptome assembly and annotation
+* Next-generation sequencing technology pipeline development and sequence analysis workflows
+* Phylogenetic tree construction  
+* Differential expression analysis of RNA-seq data 
+* Familiarity with the Unix environment and command-line tools
+* Experience in programming (in order of _decreasing_ familiarity):
+	* R
+	* Shell (bash)
+	* Python
+	* Java
+	* C
+	* C++ 
+
+## Service
+* 2021: Webmaster & Social Media Coordinator  
+	* BC Cancer Graduate Student and Postdoctoral Fellow Society (GrasPods)
+* 2020 - 2021: Seminar Organizer  
+	* Bioinformatics Technology Lab  
+* 2020 - 2021: Social Committee Leader
+	* Bioinformatics Technology Lab  
+* 2019 - 2020: Workshop Leader  
+	* Geneskool, Genome BC  
+* 2017 - 2018: Computer Director  
+	* Physiology Undergraduate League of Students (PULS)  
+	* McGill University  
+* 2015 - 2018: Webmaster  
+	* World Vision Student Committee  
