@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /home/
-  - /home.html
 ---
 
 <meta property="og:title" content="Diana Lin">
