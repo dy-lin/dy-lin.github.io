@@ -2,12 +2,18 @@
 permalink: /
 title: "About Me"
 excerpt: "Diana Lin, MSc, Bioinformatician, Vancouver, BC"
-featuredImage: /images/dlin.jpg
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<meta property="og:title" content="Diana Lin">
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Diana Lin, MSc, Bioinformatician">
+<meta property="og:image" content="/images/dlin.jpg">
+<meta property="og:url" content="https://dy-lin.github.io">
+<meta name="twitter:card" content="summary_large_image">
 
 My name is Diana Lin, and I’m a recent graduate of the Bioinformatics Graduate program at the University of British Columbia (UBC) in Vancouver, BC. In October 2021, I finished my Master of Science in Bioinformatics. In 2018, I completed my Bachelor of Science in Physiology at McGill University. In between, I held an 8-month internship at the Bioinformatics Technology Lab.
 
