@@ -24,17 +24,17 @@ redirect_from:
   * Supervisor: Dr. Inanc Birol
   
 ## Publications
-  <ul>{% for post in site.Publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
 
 ## Presentations
-  <ul>{% for post in site.Presentations %}
+  <ul>{% for post in site.presentations %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
   
 ## Teaching
-  <ul>{% for post in site.Teaching %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
