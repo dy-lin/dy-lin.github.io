@@ -1,6 +1,6 @@
 ---
 title: "rAMPage: Rapid Antimicrobial Peptide Annotation and Gene Estimation"
-collection: Presentations
+collection: presentations
 type: "Poster"
 permalink: /presentations/rAMPage-ISMB
 venue: "Intelligent Systems For Molecular Biology (ISMB)/European Conference On Computational Biology (ECCB)"
