@@ -1,6 +1,6 @@
 ---
 title: "High throughput <i>in silico</i> discovery of antimicrobial peptides in amphibian and insect transcriptomes"
-collection: publications
+collection: Publications
 permalink: /publications/msc-thesis
 date: 2020-10-07
 venue: 'University of British Columbia'

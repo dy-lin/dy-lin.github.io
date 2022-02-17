@@ -1,6 +1,6 @@
 ---
 title: "Discovering antimicrobial peptides in amphibians and insect transcriptomes"
-collection: presentations
+collection: Presentations
 type: "Talk"
 permalink: /presentations/rAMPage-GSC
 venue: "GSC Bioinformatics Weekly Seminar"

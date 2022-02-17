@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization Lessons from Hackseq"
-collection: presentations
+collection: Presentations
 type: "Workshop"
 permalink: /presentations/hackseq19
 venue: "RLadies Vancouver"

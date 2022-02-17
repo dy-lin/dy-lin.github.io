@@ -1,6 +1,6 @@
 ---
 title: "STAT545A: Exploratory Data Analysis I"
-collection: teaching
+collection: Teaching
 type: "Graduate course"
 permalink: /teaching/stat545a
 venue: "University of British Columbia, Department of Statistics"

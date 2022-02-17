@@ -1,6 +1,6 @@
 ---
 title: "rAMPage: Rapid Antimicrobial Peptide Annotation and Gene Estimation"
-collection: presentations
+collection: Presentations
 type: "Poster"
 permalink: /presentations/rAMPage-BIG
 venue: "Bioinformatics | Indisciplinary Oncology | Genome Sciences and Technology (BIG) Research Day"
