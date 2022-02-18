@@ -134,6 +134,7 @@
     color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
+	background-color: #282B30; /* dark mode button */
 
     &:hover {
       color: $link-color-hover;
@@ -196,8 +197,10 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    /* background-color: $primary-color;*/
+	background-color: #40454D;
+    /* color: #fff; */
+	color: #40454D;
     cursor: pointer;
   }
 
