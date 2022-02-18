@@ -1,6 +1,6 @@
 ---
 title: "Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptides"
-collection: Presentations
+collection: presentations
 type: "Poster"
 permalink: /presentations/rAMPage-BCCRD
 venue: "BC Cancer Research Day"
