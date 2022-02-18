@@ -1,6 +1,6 @@
 ---
 title: "Complete Chloroplast Genome Sequence of an Engelmann Spruce (_Picea engelmannii_, Genotype Se404-851) from Western Canada."
-collection: Publications
+collection: publications
 permalink: /publications/engelmann-spruce-chloroplast
 date: 2019-06-13
 venue: 'Microbiology Resource Announcements'

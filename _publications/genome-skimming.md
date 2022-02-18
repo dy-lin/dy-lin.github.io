@@ -1,6 +1,6 @@
 ---
 title: "Genome Skimming"
-collection: Publications
+collection: publications
 permalink: /publications/genome-skimming
 date: 2020-03-15
 venue: 'Wikipedia, the Free Encyclopedia'

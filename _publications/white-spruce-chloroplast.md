@@ -1,6 +1,6 @@
 ---
 title: "Complete Chloroplast Genome Sequence of a White Spruce (<i>Picea glauca</i>, Genotype WS77111) from Eastern Canada"
-collection: Publications
+collection: publications
 permalink: /publications/white-spruce-chloroplast
 date: 2019-06-06
 venue: 'Microbiology Resource Announcements'

@@ -1,6 +1,6 @@
 ---
 title: "Complete Chloroplast Genome Sequence of a Black Spruce (<i>Picea mariana</i>) from Eastern Canada"
-collection: Publications
+collection: publications
 permalink: /publications/black-spruce-chloroplast
 date: 2020-09-24
 venue: 'Microbiology Resource Announcements'
