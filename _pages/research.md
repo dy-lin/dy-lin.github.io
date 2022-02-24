@@ -3,6 +3,9 @@ permalink: /research/
 title: "Research"
 author_profile: true
 ---
+## Research Programmer - Data Scientist
+Karsan Lab, Canada's Michael Smith Genome Sciences Centre (GSC)  
+2022 - Present
 
 ## Graduate Student  
 Bioinformatics Technology Lab [(BTL)](http://www.birollab.ca), Canada's Michael Smith Genome Sciences Centre (GSC)  
