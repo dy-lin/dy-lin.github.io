@@ -4,7 +4,8 @@ collection: publications
 permalink: /publications/rAMPage
 date: 2022-07-15
 venue: "Antibiotics"
-paperurl: "https://doi.org/10.3390/antibiotics11070952"
+paperurl: "https://www.mdpi.com/2079-6382/11/7/952/htm"
+# paperurl: "https://doi.org/10.3390/antibiotics11070952"
 citation: 'Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., & Birol, I. (2022). &quot;Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.&quot; <i>Antibiotics</i> 11(7).'
 ---
 
