@@ -16,6 +16,10 @@ redirect_from:
 	* J. W. McConnell Scholarship: $3,000
 
 ## Research Experience
+* 2022 - Present: Research Programmer - Data Scientist
+  * Canada's Michael Smith Genome Sciences Centre
+  * BC Cancer Resarch Institute
+  * Supervisor: Dr. Joshua Bridgers
 * 2019 - 2021: Graduate Student
   * University of British Columbia
   * Supervisor: Dr. Inanc Birol
