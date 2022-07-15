@@ -20,9 +20,9 @@ My name is Diana Lin, and I’m currently a research programmer and data scienti
 ### MSc Thesis
 For my Master’s thesis, I developed and executed a scalable bioinformatics-based discovery platform to conduct data mining for anti-microbial peptide (AMP) sequences in publicly available genomic resources. These genomic resources include various tissue RNA-seq reads from a broad selection of amphibians (frogs and toads) and insects (ants, bees, and wasps). Discovered AMP sequences were synthesized and tested for bioactivity against various pathogens and suitability for drug development. The pipeline, rAMPage, can be found [here](https://github.com/bcgsc/rAMPage).
 
-rAMPage is published in _[Antibiotics](https:// doi.org/10.3390/antibiotics11070952):_
+rAMPage is published in _[Antibiotics](https://doi.org/10.3390/antibiotics11070952):_
 
-Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li,     C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., & Bir    ol, I. (2022) &quot;Mining Amphibian and Insect Transcriptomes for Antimicro    bial Peptide Sequences with rAMPage.&quot; <i>Antibiotics</i> 11(7).https://doi.org/10.3390/antibiotics11070952
+> Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., & Birol, I. (2022). &quot;Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.&quot; <i>Antibiotics</i> 11(7). https://doi.org/10.3390/antibiotics11070952
 
 <center><img src='/images/rAMPage.png' width='50%'></center>
 
