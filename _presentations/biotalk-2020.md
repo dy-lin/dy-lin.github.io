@@ -2,7 +2,7 @@
 title: "Mining amphibian and insect transcriptomes for antimicrobial peptides"
 collection: presentations
 type: "Talk"
-permalink: /presentations/rAMPage-GSC
+permalink: /presentations/biotalk-2020
 venue: "GSC Bioinformatics Weekly Seminar"
 date: 2020-07-03
 location: "Canada's Michael Smith Genome Sciences Centre"
