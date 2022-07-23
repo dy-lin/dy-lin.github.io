@@ -1,5 +1,5 @@
 ---
-title: "The genome of the forest insect pest <i>Pissodes strobi</i> reveals genome expansion and evidence of a <i>Wolbachia</i> endosymbiont."
+title: "The genome of the forest insect pest <i>Pissodes strobi</i> reveals genome expansion and evidence of a <i>Wolbachia</i> endosymbiont"
 collection: publications
 permalink: /publications/white-pine-weevil
 date: 2022-02-16
