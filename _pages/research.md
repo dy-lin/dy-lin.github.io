@@ -4,11 +4,17 @@ title: "Research"
 author_profile: true
 ---
 ## Research Programmer - Data Scientist
-Karsan Lab, Canada's Michael Smith Genome Sciences Centre (GSC)  
+Dr. Aly Karsan Lab, BC Cancer Research Institute, Canada's Michael Smith Genome Sciences Centre (GSC)  
 2022 - Present
+* Developing and executing bioinformatics pipelines for next-generation sequencing
+  * single-cell ATAC sequencing (scATAC-seq)
+  * single-cell RNA sequencing (scRNA-seq)
+  * single-cell ADT sequencing (scADT-seq)
+  * all three combined (DOGMA-seq)
+* Prenatal aneuploidy screening with copy number variation calling using cell-free fetal DNA in maternal blood
 
 ## Graduate Student  
-Bioinformatics Technology Lab [(BTL)](http://www.birollab.ca), Canada's Michael Smith Genome Sciences Centre (GSC)  
+[Birol Lab](http://www.birollab.ca), Canada's Michael Smith Genome Sciences Centre (GSC)  
 2019 - 2022  
 * Developed and executed an anti-microbial peptide (AMP) discovery pipeline using various bioinformatics tools and 84 RNA-seq datasets  
 * Conducted differential expression analysis and secondary structure characterization of discovered AMPs

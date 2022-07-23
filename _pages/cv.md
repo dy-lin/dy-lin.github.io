@@ -20,25 +20,28 @@ redirect_from:
   * Canada's Michael Smith Genome Sciences Centre
   * BC Cancer Resarch Institute
   * Supervisor: Dr. Joshua Bridgers
+  * Principal Investigator: Dr. Aly Karsan
 * 2019 - 2021: Graduate Student
   * University of British Columbia
   * Supervisor: Dr. Inanc Birol
+  * Principal Investigator: Dr. Inanc Birol
 * 2018 - 2019: Student Intern
   * Canada's Michael Smith Genome Sciences Centre
-  * Supervisor: Dr. Inanc Birol
+  * Supervisor: René Warren
+  * Principal Investigator: Dr. Inanc Birol
   
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
 
 ## Presentations
-  <ul>{% for post in site.presentations %}
+  <ul>{% for post in site.presentations reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
   
 ## Teaching
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
