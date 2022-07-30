@@ -26,6 +26,8 @@ rAMPage is published in _[Antibiotics](https://doi.org/10.3390/antibiotics110709
 
 Lin, D., Sutherland, D., Aninta, S.I., Louie, N., Nip, K.M., Li, C., Yanai, A., Coombe, L., Warren, R.L., Helbing, C.C., Hoang, L.M.N., & Birol, I. (2022). &quot;Mining Amphibian and Insect Transcriptomes for Antimicrobial Peptide Sequences with rAMPage.&quot; <i>Antibiotics</i> 11(7):952. [https://doi.org/10.3390/antibiotics11070952](https://doi.org/10.3390/antibiotics11070952)
 
+Read the news article [here](http://bit.ly/rAMPage).
+
 <center><img src='/images/rAMPage.png' width='50%'></center>
 
 {::comment}
