@@ -46,6 +46,9 @@ redirect_from:
   {% endfor %}</ul>
  
 ## Mentorship
+* 2022 - 2024: Co-op Supervisor
+    * Dr. Aly Karsan Lab
+    * University of British Columbia
 * 2019 - 2021: Bioinformatics Mentor  
 	* Bioinformatics Graduate Program  
 	* Univeristy of British Columbia  
@@ -59,10 +62,21 @@ redirect_from:
 ## Skills
 * _De novo_ genome assembly and annotation
 * _De novo_ transcriptome assembly and annotation
-* Next-generation sequencing technology pipeline development and sequence analysis workflows
+* Next-generation sequencing technology pipeline development and sequence analysis workflows inlucding but not limited to:
+    * scATAC-seq (single cell chromatic accessibility)
+    * scRNA-seq (single cell gene expression)
+    * CITE-seq (single cell gene expression and surface proteine xpression)
+    * DOGMA-seq (single cell chromatin accessibility, gene expression, surface protein expression, and mitochondrial genomic capture
+    * scWGBS (single cell whole genome bisulfite sequencing)
 * Phylogenetic tree construction  
 * Differential expression analysis of RNA-seq data 
 * Familiarity with the Unix environment and command-line tools
+* Familiarity with workflow languages:
+    * snakemake
+    * Nextflow
+    * make
+* Familiarity with high performance computing clusters and job schedulers:
+    * SLURM
 * Experience in programming (in order of _decreasing_ familiarity):
 	* R
 	* Shell (bash)
@@ -72,6 +86,10 @@ redirect_from:
 	* C++ 
 
 ## Service
+* Present: Social Committee Member
+    * Dr. Aly Karsan Lab
+* 2023: Team Mentor
+    * Vancouver DataJam 2023
 * 2021: Webmaster & Social Media Coordinator  
 	* BC Cancer Graduate Student and Postdoctoral Fellow Society (GrasPods)
 * 2020 - 2021: Seminar Organizer  

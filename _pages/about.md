@@ -17,7 +17,7 @@ redirect_from:
 
 My name is Diana Lin, and I’m a research programmer and data scientist at the Genome Sciences Centre at BC Cancer in the Dr. Aly Karsan Lab. Currently, I am developing bioinformatics pipelines for next-generation sequencing data.
 
-I recently graduateed from the Bioinformatics Graduate program at the University of British Columbia (UBC) in Vancouver, BC. In October 2021, I finished my Master of Science in Bioinformatics. In 2018, I completed my Bachelor of Science in Physiology at McGill University. In between, I held an 8-month internship at the Bioinformatics Technology Lab.
+I graduateed from the Bioinformatics Graduate program at the University of British Columbia (UBC) in Vancouver, BC. In October 2021, I finished my Master of Science in Bioinformatics. In 2018, I completed my Bachelor of Science in Physiology at McGill University. In between, I held an 8-month internship at the Bioinformatics Technology Lab.
 
 ### MSc Thesis
 For my Master’s thesis, I developed and executed a scalable bioinformatics-based discovery platform to conduct data mining for anti-microbial peptide (AMP) sequences in publicly available genomic resources. These genomic resources include various tissue RNA-seq reads from a broad selection of amphibians (frogs and toads) and insects (ants, bees, and wasps). Discovered AMP sequences were synthesized and tested for bioactivity against various pathogens and suitability for drug development. The pipeline, rAMPage, can be found [here](https://github.com/bcgsc/rAMPage).

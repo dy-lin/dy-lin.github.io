@@ -3,6 +3,13 @@ permalink: /service/
 title: "Service"
 author_profile: true
 ---
+### Social Committee Member
+Dr. Aly Karsan Lab
+Present
+
+### Team Mentor
+Vancouver Data Jam 2023
+2023
 
 ### Webmaster & Social Media Coordinator  
 BC Cancer Graduate Student and Postdoctoral Fellow Society (GrasPods)  

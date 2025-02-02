@@ -11,6 +11,7 @@ Dr. Aly Karsan Lab, BC Cancer Research Institute, Canada's Michael Smith Genome 
   * single-cell RNA sequencing (scRNA-seq)
   * single-cell ADT sequencing (scADT-seq)
   * all three combined (DOGMA-seq)
+  * single-cell whole genome bisulfite sequencing (scWGBS)
 * Prenatal aneuploidy screening with copy number variation calling using cell-free fetal DNA in maternal blood
 
 ## Graduate Student  
