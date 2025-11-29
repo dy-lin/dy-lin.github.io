@@ -15,7 +15,7 @@ redirect_from:
 <meta property="og:url" content="https://dy-lin.github.io">
 <meta name="twitter:card" content="summary_large_image">
 
-My name is Diana Lin, and I’m a research programmer and data scientist at the Genome Sciences Centre at BC Cancer in the Dr. Aly Karsan Lab. Currently, I am developing bioinformatics pipelines for next-generation sequencing data.
+My name is Diana Lin, and I’m a research programmer and data scientist at the BC Cancer Research Institute in the Dr. Aly Karsan Lab. Currently, I am developing bioinformatics pipelines for next-generation sequencing data.
 
 I graduated from the Bioinformatics Graduate program at the University of British Columbia (UBC) in Vancouver, BC. In October 2021, I finished my Master of Science in Bioinformatics. In 2018, I completed my Bachelor of Science in Physiology at McGill University. In between, I held an 8-month internship at the Bioinformatics Technology Lab.
 

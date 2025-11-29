@@ -4,8 +4,9 @@ title: "Research"
 author_profile: true
 ---
 ## Research Programmer - Data Scientist
-Dr. Aly Karsan Lab, BC Cancer Research Institute, Canada's Michael Smith Genome Sciences Centre (GSC)  
-2022 - Present
+Dr. Aly Karsan Lab
+BC Cancer Research Institute, 2022 - Present
+Canada's Michael Smith Genome Sciences Centre, 2022 - 2025
 * Developing and executing bioinformatics pipelines for next-generation sequencing
   * single-cell ATAC sequencing (scATAC-seq)
   * single-cell RNA sequencing (scRNA-seq)
